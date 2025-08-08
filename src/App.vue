@@ -1,7 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
-import MyComponent from './components/MyComponent.vue';
+import MyComponent from './components/Srihari.vue'
 </script>
 
 <template>
@@ -10,7 +10,7 @@ import MyComponent from './components/MyComponent.vue';
 
     <div class="wrapper">
       <HelloWorld msg="Srihari Vemana 35090197 did it!!" />
-      <MyComponent msg="Your custom component works!"/>
+      <MyComponent msg="Your custom component works!" />
     </div>
   </header>
 
